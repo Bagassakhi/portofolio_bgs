@@ -50,7 +50,7 @@ export const certificates = [
     issuer: "Nama Lembaga / Platform",
     date: "06-Januari-2025",
     category: "#",
-    image: "/serti_java.png", // isi dengan path gambar sertifikat, contoh: '/cert1.png'
+    image: "/serti_java.png", 
     link: "/serti_java.png",
   },
   {
@@ -66,8 +66,17 @@ export const certificates = [
     issuer: "Nama Lembaga / Platform",
     date: "2023",
     category: "Programing",
-    image: "",
-    link: "",
+    image: "/menejemen_proyek.png",
+    link: "/menejemen_proyek.png",
+  },
+
+  {
+    title: "Nama Sertifikat 3",
+    issuer: "Nama Lembaga / Platform",
+    date: "2023",
+    category: "Programing",
+    image: "/financial_literacy.png",
+    link: "/financial_literacy.png",
   },
 ];
 
